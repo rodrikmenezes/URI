@@ -13,4 +13,3 @@ m = input().split(' ')
 
 # Cálculo/Saída
 print('VALOR A PAGAR: R$ {:.2f}'.format( int(n[1]) * float(n[2]) + int(m[1]) * float(m[2])) )
-

@@ -12,6 +12,5 @@ vendas = float(input())
 # Cálculo
 total_salario = salario + vendas * 0.15
 
-# Print
+# Saída
 print('TOTAL = R$ {:.2f}'.format(total_salario))
-

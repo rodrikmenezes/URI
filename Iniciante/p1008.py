@@ -12,6 +12,5 @@ Valor = float(input())
 # Cálculo
 Salario = Horas * Valor
 
-# Print
+# Saída
 print('NUMBER = {}\nSALARY = U$ {:.2f}'.format(Num, Salario))
-

@@ -4,8 +4,7 @@ OBS: apenas para facilitar o cálculo, considere todo ano com 365 dias e todo m�
 '''
 
 # Entrada 
-# idade = int(input())
-idade = 800
+idade = int(input())
 
 # Cálculo
 anos = idade // 365 

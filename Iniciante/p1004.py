@@ -10,5 +10,5 @@ B = int(input())
 # Cálculo
 P=A*B
 
-# Print
+# Saída
 print('PROD = {}'.format(P))

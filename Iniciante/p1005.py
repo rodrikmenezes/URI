@@ -11,5 +11,5 @@ n2 = float(input())
 # Cálculo
 M = ( (n1 * 3.5)  + (n2 * 7.5) ) / 11
 
-# Print
+# Saída
 print('MEDIA = {:.5f}'.format(M)) 

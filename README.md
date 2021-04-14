@@ -1,4 +1,4 @@
-# Solução em Python para os exercícios da plataforma URI
+# Solução em Python para os exercícios do site URI Online Judge
 
-site da plataforma: https://www.urionlinejudge.com.br/
+Endereço: https://www.urionlinejudge.com.br/
 

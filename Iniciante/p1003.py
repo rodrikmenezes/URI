@@ -10,5 +10,5 @@ B = int(input())
 # Cálculo
 S=A+B
 
-# Print
+# Saída
 print('SOMA = {}'.format(S))
