@@ -10,12 +10,12 @@ dizer qual é o tamanho que a aresta em formato de cubo deve ter.
 '''
 
 # Teste
-n = '170 867 253' # 334
+# n = '170 867 253' # 334
 # n = '452 378 368' # 397
 # n = '0 0 0'
 
 # Entrada
-# n = input()
+n = input()
 
 # Cálculo
 a, b, c = n.split(' ')
@@ -26,10 +26,5 @@ c = int(c)
 
 # Saída
 if a > 0 and b > 0 and c > 0:
-    
     d = int((a*b*c)**(1/3))
     print(d)
-
-# Saída
-# print(d)
-
