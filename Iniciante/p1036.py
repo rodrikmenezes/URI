@@ -1,10 +1,11 @@
 """
 Leia 3 valores de ponto flutuante e efetue o cálculo das raízes da equação de Bhaskara. Se não for possível calcular as raízes, mostre a mensagem correspondente “Impossivel calcular”, caso haja uma divisão por 0 ou raiz de numero negativo.
 """
+# Teste
+# valores = '10.0 20.1 5.1'
 
 # Entrada
-# valores = input()
-valores = '10.0 20.1 5.1'
+valores = input()
 
 # Cálculo/Saída
 a, b, c = valores.split()
