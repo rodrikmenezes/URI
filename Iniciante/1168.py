@@ -35,7 +35,6 @@ for s in l:
             a = 5   
         else: 
             a = 6
-
         tot += a
             
     print('{} leds'.format(tot))
