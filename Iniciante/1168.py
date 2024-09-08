@@ -39,7 +39,7 @@ for s in l:
             
     print('{} leds'.format(tot))
         
-       
+
 
 
 
